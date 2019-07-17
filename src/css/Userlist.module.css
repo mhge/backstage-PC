@@ -1,0 +1,18 @@
+.demoinfinite{
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    overflow: auto;
+    padding: 8px 40px;
+    height: 500px;
+  }
+  .demoloading{
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    text-align: center;
+  }
+  .os{
+    color: red;
+    font-size: 16px
+  }
+
